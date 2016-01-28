@@ -67,7 +67,8 @@
         <dependency>
             <groupId>org.webjars</groupId>
             <artifactId>bootstrap</artifactId>
-            <version>3.3.6</version>
+            <!-- The upstream librabry claims to be compatible with version >= 2.3.0. -->
+            <version>2.3.0</version>
         </dependency>
     </dependencies>
     
