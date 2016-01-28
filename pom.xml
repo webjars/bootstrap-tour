@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bootstrap-tour</artifactId>
-    <version>0.10.3-SNAPSHOT</version>
+    <version>0.10.2-1-SNAPSHOT</version>
     <name>Bootstrap Tour</name>
     <description>WebJar for Bootstrap Tour</description>
     <url>http://webjars.org</url>
